@@ -1,162 +1,77 @@
 <div align="center">
 
-# Hi there, I'm Ishara! 👋
+# THIRANJAYA ISHAN
 
-### ☁️ Aspiring DevOps & Cloud Engineer | Software Technology Undergraduate
+### DevOps & Cloud Engineering Enthusiast
 
-**Building • Automating • Deploying • Learning**
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Thiranjshan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **BICT (Software Technology) undergraduate** at the **University of Sri Jayewardenepura, Sri Lanka**, with a strong interest in **DevOps, Cloud Engineering, and Software Development**.
-
-I enjoy building real-world applications, automating deployment workflows, and exploring modern cloud infrastructure.
-
-- ☁️ Exploring **AWS Cloud Infrastructure & DevOps**
-- 🐳 Working with **Docker, Kubernetes & Containerization**
-- ⚙️ Building **CI/CD pipelines using GitHub Actions**
-- 🏗️ Learning **Infrastructure as Code with Terraform**
-- 💻 Developing and deploying full-stack applications
-- 📚 Continuously improving my skills in **Linux, Networking & Cloud Architecture**
-- 🎯 Currently seeking **DevOps / Cloud Engineering Internship Opportunities**
-
----
-
-## 🛠️ Tech Stack
-
-### ☁️ Cloud & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,linux" />
-</p>
-
-### ⚙️ DevOps & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,github" />
-</p>
-
-### 💻 Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,nextjs,react" />
-</p>
-
-### 🗄️ Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,postman,vscode" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 Celiz LK — E-Commerce Platform & Cloud Infrastructure
-
-A real-world e-commerce platform with a focus on cloud deployment, infrastructure automation, and application management.
-
-**Key Technical Highlights:**
-
-- Deployed a containerized web application on **AWS EC2**
-- Implemented **Docker Compose** for multi-container orchestration
-- Built automated **CI/CD workflows using GitHub Actions**
-- Provisioned AWS infrastructure using **Terraform**
-- Configured **PostgreSQL** for application data persistence
-- Integrated **Caddy** for HTTPS and reverse proxy management
-- Worked with database migration, backup, and restoration procedures
-
-**Technologies:** `AWS` `Docker` `Terraform` `GitHub Actions` `PostgreSQL` `Linux` `Next.js`
-
-🔗 **Live Website:** https://celizlk.store
-
----
-
-### 🧠 Ask the Audience — Product Recommendation Platform
-
-A product discovery and community-driven review platform designed around cloud-native architecture.
-
-**Project Focus:**
-
-- Microservices architecture
-- Kubernetes-based container orchestration
-- Cloud deployment on AWS
-- CI/CD automation
-- Scalable backend service design
-- Product reviews and recommendation workflows
-
-**Technologies:** `AWS` `Kubernetes` `Docker` `Microservices` `CI/CD`
-
-**Status:** Architecture & Development Planning
-
----
-
-### 🔧 Repair Technician Discovery Platform
-
-A platform designed to connect customers with suitable, verified device repair technicians.
-
-**Key Features & Design Goals:**
-
-- Technician discovery and matching
-- Technician skill verification
-- Customer inquiry and booking management
-- Role-based access
-- AI-assisted technician recommendations
-- Scalable application architecture
-
-**Status:** MVP Design & Architecture
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-- ☁️ AWS Cloud Architecture & Best Practices
-- ⚙️ Advanced CI/CD Workflows
-- 🐳 Kubernetes & Container Orchestration
-- 🏗️ Infrastructure as Code
-- 🔐 Cloud Security & Networking
-- 📈 Monitoring, Logging & Observability
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, collaborating on projects, and exploring opportunities in **DevOps, Cloud Engineering, and Software Development**.
+`Software Technology Undergraduate` · `Cloud Infrastructure` · `Automation`
 
 <p>
   <a href="https://www.linkedin.com/in/thiranjayaishan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="thiranjayaishan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:thiranjayaishan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-252525?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://celizlk.store">
+    <img src="https://img.shields.io/badge/Live_Project-252525?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
 
+</div>
+
+<br>
+
+### `> whoami`
+
+BICT (Software Technology) Undergraduate at the **University of Sri Jayewardenepura**, Sri Lanka.
+
+Focused on **DevOps, Cloud Infrastructure, CI/CD, and Software Engineering**. Passionate about building, automating, and deploying real-world applications.
+
+<br>
+
+### `> tech --stack`
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**DevOps & Automation**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Development & Databases**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+<br>
+
+### `> featured --project`
+
+**Celiz LK** — E-Commerce Platform & Cloud Infrastructure
+
+`AWS EC2` · `Docker Compose` · `Terraform` · `GitHub Actions` · `PostgreSQL` · `Caddy`
+
+Production e-commerce platform with containerized deployment, infrastructure provisioning, CI/CD workflows, and database management.
+
+**[↗ Explore Live Project](https://celizlk.store)**
+
+<br>
+
+---
+
 <div align="center">
 
-### 💡 "Always Learning. Always Building. Always Improving."
-
-⭐ Thanks for visiting my GitHub profile!
+<sub>BUILD · AUTOMATE · DEPLOY · IMPROVE</sub>
 
 </div>
-```
